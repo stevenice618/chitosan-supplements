@@ -6,6 +6,8 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
+# Chitosan Global - Best Chitosan Products
+We provide high-quality **[chitosan supplements](https://chitosanglobal.com/)** for health and agriculture.
 
 # GitHub Pages
 
